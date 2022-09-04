@@ -20,7 +20,7 @@ Acceptance Criteria:-
 
 • Slides data is in src/data.js.
 
-• Initially, the file is filled with boilerplate code.
+• Initially, the file is filled with boilerplate code.<br>
 <b>Note the following:</b>
 
 • The "Restart" button must have data-testid="button-restart".

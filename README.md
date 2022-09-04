@@ -23,12 +23,12 @@ Acceptance Criteria:-
 • Initially, the file is filled with boilerplate code.
 Note the following:
 
-The "Restart" button must have data-testid="button-restart".
+• The "Restart" button must have data-testid="button-restart".
 
-The "Prev" button must have data-testid="button-prev".
+• The "Prev" button must have data-testid="button-prev".
 
-The "Next" button must have data-testid="button-next".
+• The "Next" button must have data-testid="button-next".
 
-Each slide's title must be rendered as an < h1 > element with data-testid="title".
+• Each slide's title must be rendered as an < h1 > element with data-testid="title".
 
-Each slide's text must be rendered as a < p > element with data-testid="text".
+• Each slide's text must be rendered as a < p > element with data-testid="text".

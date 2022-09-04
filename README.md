@@ -2,7 +2,7 @@
 Question (medium)
 
 Amazon Prime: Trending<br>
-Amazon Prime Videos keeps a slide show of trending shows on the top. Let's try and build that slide show with some text data and eventually we can choose to add posters and trailers of different shows
+Amazon Prime Videos keeps a slide show of trending shows on the top. Let's try and build that slide show with some text data and eventually we can choose to add posters and trailers of different shows<br>
 Acceptance Criteria:-
 
 

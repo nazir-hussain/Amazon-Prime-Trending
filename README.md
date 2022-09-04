@@ -6,21 +6,21 @@ Amazon Prime Videos keeps a slide show of trending shows on the top. Let's try a
 Acceptance Criteria:-
 
 
-The App component takes an array of slides as a prop. Each element of this array denotes a single slide and is an object with 2 properties: title(string) and text(string).
+• The App component takes an array of slides as a prop. Each element of this array denotes a single slide and is an object with 2 properties: title(string) and text(string).
 
-On application launch, the first slide must be rendered.
+• On application launch, the first slide must be rendered.
 
-Clicking on the "Next" button shows the next slide. This button is disabled when the current slide is the last one.
+• Clicking on the "Next" button shows the next slide. This button is disabled when the current slide is the last one.
 
-Clicking on the "Prev" button shows the previous slide. This button is disabled when the current slide is the first one.
+• Clicking on the "Prev" button shows the previous slide. This button is disabled when the current slide is the first one.
 
-Clicking on the "Restart" button returns to the first slide. This button is disabled when the current slide is the first one.
+• Clicking on the "Restart" button returns to the first slide. This button is disabled when the current slide is the first one.
 
-You can assume that the passed slides array contains at least one slide.
+• You can assume that the passed slides array contains at least one slide.
 
-Slides data is in src/data.js.
+• Slides data is in src/data.js.
 
-Initially, the file is filled with boilerplate code.
+• Initially, the file is filled with boilerplate code.
 Note the following:
 
 The "Restart" button must have data-testid="button-restart".
